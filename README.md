@@ -1,4 +1,4 @@
 # Customer_Segmentation_Project
 From Udemy DS for Business Course
 
-I cannot install tensorflow for the life of me! So this is why this data science project stopped. I will return!
+This project, and others, were held up for a really long time due to issues installing tensorflow. I finally dove into using the command line and virtual environments and made it all work. 
